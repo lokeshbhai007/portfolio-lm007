@@ -52,15 +52,14 @@ This is a simple, responsive **portfolio website** built using **HTML**, **CSS**
 
 ## ✨ Live Demo
 
-[Live Website Link](https://yourusername.github.io/your-repo-name)
+[Live Website Link](https://portfolio-lm007.netlify.app/)
 
 ## 📬 Contact
 
 Feel free to reach out for collaboration or feedback!
 
-* Email: [yourname@example.com](mailto:yourname@example.com)
-* LinkedIn: [your-profile-link](https://linkedin.com/in/your-profile)
-* Portfolio: [yourwebsite.com](https://yourwebsite.com)
+* Email: [yourname@example.com](mailto:lokeshmondal340@example.com)
+* LinkedIn: [your-profile-link](https://linkedin.com/in/lokesh-mondal)
 
 ---
 
