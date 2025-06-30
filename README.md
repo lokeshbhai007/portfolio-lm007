@@ -39,7 +39,7 @@ This is a simple, responsive **portfolio website** built using **HTML**, **CSS**
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/lokeshbhai007/portfolio-lm007.git
 ````
 
 2. **Open `index.html`** in your browser:
@@ -58,8 +58,8 @@ This is a simple, responsive **portfolio website** built using **HTML**, **CSS**
 
 Feel free to reach out for collaboration or feedback!
 
-* Email: [yourname@example.com](mailto:lokeshmondal340@example.com)
-* LinkedIn: [your-profile-link](https://linkedin.com/in/lokesh-mondal)
+* Email: [lokeshmondal340@example.com](mailto:lokeshmondal340@example.com)
+* LinkedIn: [Clik here!](https://linkedin.com/in/lokesh-mondal)
 
 ---
 
